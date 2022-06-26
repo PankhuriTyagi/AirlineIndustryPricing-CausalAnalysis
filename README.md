@@ -11,3 +11,4 @@ Entire analysis has been done on R. The [code](code/Analysis.Rmd) contains the a
 We used Instrumental Variables as a technique to establish causality.
 
 ## References
+References: https://www.stata.com/texts/eacsap/
