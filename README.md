@@ -1,4 +1,4 @@
-![]('src/airLine.jpg')
+![](src/airLine.jpg)
 # Causal Analysis for Airline Pricing
 
 ## Introduction
